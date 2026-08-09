@@ -2,7 +2,7 @@
   "item": {
     "id": "979826556566",
     "restype": "watchface",
-    "name": "Color  游戏开发部  rw5/6",
+    "name": "Color游戏开发部rw5/6",
     "description": "一个关于游戏开发部的多样式动态表盘\n该表盘仅为二创，素材均收集于https://kivo.wiki\n如有侵权我会立即删除",
     "preview": [
       "media/画板 1.png",
@@ -23,11 +23,11 @@
   "downloads": {
     "xmrw5": {
       "version": "1.0.0",
-      "file_name": "downloads/Color 游戏开发部  rw5  1.0.0.bin"
+      "file_name": "downloads/Color游戏开发部rw5 1.0.0.bin"
     },
     "xmrw6": {
       "version": "1.0.0",
-      "file_name": "downloads/Color  游戏开发部  rw6  1.0.0.bin"
+      "file_name": "downloads/Color游戏开发部rw6 1.0.0.bin"
     }
   },
   "ext": {}
